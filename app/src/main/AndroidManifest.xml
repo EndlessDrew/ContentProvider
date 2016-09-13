@@ -19,7 +19,7 @@
         <activity android:name=".activity.PhoneNumberActivity"></activity>
 
         <provider
-            android:authorities="feicui.projectone.provider"
+            android:authorities="feicui.projectone"
             android:exported="true"
             android:name=".mycontentprovider.MyContentProvider"/>
     </application>

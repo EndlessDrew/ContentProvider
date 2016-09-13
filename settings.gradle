@@ -1,1 +1,1 @@
-include ':app', ':probidercilent'
+include ':app', ':probidercilent', ':mycontacts'
